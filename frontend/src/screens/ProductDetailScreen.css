@@ -1,0 +1,33 @@
+.product-image-container {
+  padding: 2rem;
+  background-color: white;
+  border-radius: var(--radius-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.product-image-container img {
+  max-height: 500px;
+  width: auto;
+  max-width: 100%;
+}
+
+.product-price-detail {
+  color: var(--primary-color);
+}
+
+.rating-stars {
+  color: var(--accent-color);
+}
+
+.product-desc {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--text-main);
+}
+
+.review-card {
+  background-color: #f8fafc;
+}

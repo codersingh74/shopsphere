@@ -1,0 +1,5 @@
+/* Custom navbar tweaks if needed */
+.navbar-brand {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.5px;
+}
