@@ -1,9 +1,6 @@
-# 🛒 Cartify - Premium E-Commerce Platform
+# 🛒 ShopSphere - Full-Stack E-Commerce Platform
 
-A full-stack e-commerce application built with React, Django REST Framework, and Redux, featuring a premium UI, user authentication, shopping cart, wishlist, and order management.
-
-![React](https://img.shields.io/badge/React-19.x-blue) ![Django](https://img.shields.io/badge/Django-5.x-green) ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple) ![Vite](https://img.shields.io/badge/Vite-6.x-yellow)
-
+> Built on top of the open-source project [ecommerce_project](https://github.com/dhrub404/ecommerce_project) by dhrub404 (original name: Cartify). Modified and extended by [codersingh74](https://github.com/codersingh74).
 ## ✨ Features
 
 ### 🎨 Modern UI/UX
